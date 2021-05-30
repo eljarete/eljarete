@@ -11,9 +11,9 @@
 <p align="left">
 <a href="https://twitter.com/jaretearroyo" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="jaretearroyo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jararrmar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" alt="jararrmar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jarete-arroyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="jarete-arroyo" height="30" width="40" /></a>
-<a href="https://instagram.com/eljarete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="eljarete" height="30" width="40" /></a>
-<a href="https://discord.gg/4665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="4665" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/jarete-arroyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/StackExchange/Stacks-Icons/4ab2f4b38886c39be30e87d4de40ab32f1b5b7c0/src/Icon/LogoGlyphMd.svg" alt="jarete-arroyo" height="30" width="40" /></a>
+<a href="https://instagram.com/eljarete" target="blank"><img align="center" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png" alt="eljarete" height="30" width="40" /></a>
+<a href="https://discord.gg/4665" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="4665" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
