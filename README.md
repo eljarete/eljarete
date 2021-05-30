@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Jared Arroyo</h1>
-<h3 align="center">a spanish industrial engineer interested in computer sience and iot.</h3>
+<h3 align="center">a spanish industrial engineer interested in computer science and iot.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eljarete&label=Profile%20views&color=0e75b6&style=flat" alt="eljarete" /> </p>
 
