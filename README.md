@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eljarete&label=Profile%20views&color=0e75b6&style=flat" alt="eljarete" /> </p>
 
-- 🔭 My current position is Systems engineer for [Contenur](https://www.contenur.com/)
+
+- 🔭 My current position is Integrations engineer for [Izertis](https://www.izertis.com/)
 
 - 🌱 I'm currently learning about linux and kubernetes to develop Machine Learning in the Edge. **https://www.linuxfoundation.org/**
 
@@ -12,7 +13,7 @@
 <a href="https://twitter.com/jaretearroyo" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="jaretearroyo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jararrmar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" alt="jararrmar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jarete-arroyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/StackExchange/Stacks-Icons/4ab2f4b38886c39be30e87d4de40ab32f1b5b7c0/src/Icon/LogoGlyphMd.svg" alt="jarete-arroyo" height="30" width="40" /></a>
-<a href="https://instagram.com/eljarete" target="blank"><img align="center" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png" alt="eljarete" height="30" width="40" /></a>
+<a href="https://instagram.com/eljarete" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="eljarete" height="30" width="40" /></a>
 <a href="https://discord.gg/4665" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="4665" height="30" width="40" /></a>
 </p>
 
